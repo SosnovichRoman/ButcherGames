@@ -9,5 +9,5 @@ Test task from Butcher Games
 ## Screenshots
 
 ### Gameplay
-<img src="img/Runner_cutted.gif" width="360">
+<img src="img/Runner_cutted.gif" width="540">
 
